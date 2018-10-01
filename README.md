@@ -1,4 +1,5 @@
 # OpenRW
+[![IRC freenode #openrw](http://img.shields.io/freenode/%23openrw.png)](https://webchat.freenode.net/?channels=%23openrw)
 
 ## About
 
@@ -9,10 +10,10 @@ OpenRW has been ported to Linux, macOS, Windows, and several variants of BSD.
 A legitimate copy of the original PC game is required to run OpenRW. Without
 this it will not be possible to play.
 
-Status | Platform
----:| ---
-[![Build Status](https://travis-ci.org/rwengine/openrw.svg?branch=master)](https://travis-ci.org/rwengine/openrw) | Ubuntu, Fedora, Arch, macOS
-[![Build Status](https://ci.appveyor.com/api/projects/status/xyffurxul8m7heq6/branch/master?svg=true)](https://ci.appveyor.com/project/danhedron/openrw/branch/master) | Visual Studio 2017
+Windows | Linux | macOS
+---| --- | ---
+[![Build Status](https://ci.appveyor.com/api/projects/status/xyffurxul8m7heq6/branch/master?svg=true)](https://ci.appveyor.com/project/danhedron/openrw/branch/master) | [![Build Status](https://travis-ci.org/rwengine/openrw.svg?branch=master)](https://travis-ci.org/rwengine/openrw) | [![Build Status](https://travis-ci.org/rwengine/openrw.svg?branch=master)](https://travis-ci.org/rwengine/openrw)
+
 
 ## Links
 
@@ -20,12 +21,12 @@ Status | Platform
  * [Getting Started](https://github.com/rwengine/openrw/wiki/Getting-Started)
  * [Completable Missions](https://github.com/rwengine/openrw/issues/52)
  * [Contributing](https://github.com/rwengine/openrw/wiki/Contributing)
- * IRC: #openrw @ chat.freenode.net
 
 ## Screenshots
-![Looking west to Staunton](https://cloud.githubusercontent.com/assets/418211/16398933/40a62c20-3cc6-11e6-8c6a-9c50de47510c.png)
-![Poor driving skill](https://cloud.githubusercontent.com/assets/418211/16398932/40a03de2-3cc6-11e6-9e48-acc9b44a600a.png)
-![Duplicate claude in cutscene](https://cloud.githubusercontent.com/assets/418211/16399129/aa019d52-3cc7-11e6-9a33-a9fcce0b972c.png)
+![OpenRW: GTA III Opening Cutscene](https://user-images.githubusercontent.com/418211/46314254-f08e0780-c5c1-11e8-82ed-724b404a8370.png)
+![OpenRW: GTA III Safehouse Cutscene](https://user-images.githubusercontent.com/418211/46317818-42d42600-c5cc-11e8-89e6-dad142589b7b.png)
+![OpenRW: GTA III Mission Completed](https://user-images.githubusercontent.com/418211/46314208-d6ecc000-c5c1-11e8-8acd-d9b4a71c4e05.png)
+![OpenRW: GTA III City](https://user-images.githubusercontent.com/418211/46314217-dbb17400-c5c1-11e8-9306-5ae22bbcd630.png)
 
 ## License
 
